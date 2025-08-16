@@ -33,8 +33,6 @@ Currently focused on **web development** and **AI**, and actively developing use
 
 ## 🌱 Currently Learning
 
-- 📘 JavaScript ES6+
-- ⚙️ Git & GitHub Workflows
 - 🧠 Prompt engineering and AI integration
 
 ---

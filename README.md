@@ -6,7 +6,7 @@ Currently focused on **web development** and **AI**, and actively developing use
 ---
 
 ## 🔭 Projects I'm Working On
-- 🤖 [**SkalGPT**](https://skalgpt.netlify.app): A creative web-based AI assistant with custom UI components  
+- 🤖 [**SkalGPT**](https://skalgpt.netlify.app)
 ---
 
 ## 🛠️ Tech Stack

@@ -5,10 +5,6 @@ Currently focused on **web development** and **AI**, and actively developing use
 
 ---
 
-## 🔭 Projects I'm Working On
-- 🤖 [**SkalGPT**](https://skalgpt.netlify.app)
----
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

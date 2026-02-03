@@ -21,8 +21,9 @@ Currently focused on **web development** and **AI**, and actively developing use
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=woffluon&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woffluon&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=woffluon&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=woffluon&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=woffluon&layout=compact&theme=github_dark" height="180"/>
 </p>
 
 ---

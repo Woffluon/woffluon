@@ -1,7 +1,8 @@
 ### 👨‍💻 Efe Arabacı | 11th Grade Student | Future Developer
 
-Hi, I'm Efe – a high school student passionate about building things with **code**.
-Currently focused on **web development** and **AI**, and actively developing useful and beautiful digital tools.
+Hi, I'm Efe — a high school student who loves building meaningful things with code.
+I’m currently focused on **web development** and **machine learning**.
+
 
 ---
 

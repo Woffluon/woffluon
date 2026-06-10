@@ -1,4 +1,4 @@
-### 👨‍💻 Efe Arabacı | 11th Grade Student | Future Developer
+### 👨‍💻 Efe Arabacı | Full Stack Web Developer
 
 Hi, I'm Efe — a high school student who loves building meaningful things with code.
 I’m currently focused on **web development** and **machine learning**.

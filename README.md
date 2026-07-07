@@ -29,11 +29,6 @@ I’m currently focused on **web development** and **machine learning**.
 
 ---
 
-## 🌱 Currently Learning
-
-- 🧠 Prompt engineering and AI integration
-
----
 
 ## 📫 Let's Connect
 

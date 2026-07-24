@@ -25,8 +25,9 @@ I’m currently focused on **web development** and **machine learning**.
   <img src="https://github-readme-stats-fast.vercel.app/api?username=woffluon&show_icons=true&theme=github_dark" height="180"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=woffluon&theme=github_dark" height="180"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=woffluon&layout=compact&theme=github_dark" height="180"/>
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 </p>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ---
 

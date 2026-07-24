@@ -1,51 +1,90 @@
-### 👨‍💻 Efe Arabacı | Full Stack Web Developer
+```bash
+┌──(efe㉿woffluon-dev)-[~]
+└─$ cat identity.json
+```
 
-Hi, I'm Efe — a high school student who loves building meaningful things with code.
-I’m currently focused on **web development** and **machine learning**.
-
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=woffluon&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=woffluon&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=woffluon&layout=compact&theme=github_dark" height="180"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/woffluon/woffluon/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/woffluon/woffluon/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/woffluon/woffluon/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+```json
+{
+  "developer": {
+    "name": "Efe Arabacı",
+    "alias": "woffluon",
+    "role": "Full-Stack Web Developer",
+    "focus": ["Modern Web Development", "Machine Learning"],
+    "bio": "High school student passionate about software engineering, web architectures, and AI.",
+    "philosophy": "I learned more building projects in my room than in any classroom."
+  }
+}
+```
 
 ---
 
+```bash
+┌──(efe㉿woffluon-dev)-[~]
+└─$ efe --vision-and-goals
+```
 
-## 📫 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/woffluon)
-[![Mail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:efe.arabaci.dev@gmail.com)
+> **Vision:** Building clean, high-performance web applications and intelligent systems that solve real-world problems.
+> 
+> **Current Focus:**
+> - 🌐 Deepening expertise in modern full-stack web architectures (Astro, TypeScript, React)
+> - 🤖 Exploring Machine Learning concepts, algorithms, and practical applications
+> - ⚡ Designing minimalist, performant, and accessible user interfaces
 
 ---
 
-## ✨ Fun Fact
+```bash
+┌──(efe㉿woffluon-dev)-[~]
+└─$ efe --list-stack
+```
 
-> I like turning caffeine into code ☕💻  
-> Also — I learned more in my room than I ever did in a classroom.
+#### Languages & Core
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Frameworks & Styling
+![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### Tools & Environment
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+```bash
+┌──(efe㉿woffluon-dev)-[~]
+└─$ efe --fetch-analytics
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/woffluon/woffluon/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/woffluon/woffluon/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/woffluon/woffluon/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<br /><br />
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=woffluon&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=woffluon&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff)
+
+![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=woffluon&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&stroke=ffffff&ring=ffffff&fire=ffffff)
+
+---
+
+```bash
+┌──(efe㉿woffluon-dev)-[~]
+└─$ efe --connect
+```
+
+- **Email:** [efe.arabaci.dev@gmail.com](mailto:efe.arabaci.dev@gmail.com)
+- **GitHub:** [@woffluon](https://github.com/woffluon)
+
+```bash
+┌──(efe㉿woffluon-dev)-[~]
+└─$ exit
+```

@@ -13,7 +13,7 @@
 
 > High school developer focused on building scalable web systems and modern machine learning applications. Driven by minimal design, robust code, and continuous learning.
 
-- **Role** &nbsp;&mdash;&nbsp; Full Stack Web Developer & ML Researcher
+- **Role** &nbsp;&mdash;&nbsp; Full Stack Web Developer & ML
 - **Stack** &nbsp;&mdash;&nbsp; TypeScript • Python • Astro • Tailwind CSS
 - **Interests** &nbsp;&mdash;&nbsp; Neural Networks, Web Architecture, Open Source
 - **Status** &nbsp;&mdash;&nbsp; Available for collaborative builds

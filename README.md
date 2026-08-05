@@ -25,11 +25,13 @@
 #### CORE LANGUAGES & FRAMEWORKS
 ![TypeScript](https://img.shields.io/badge/TypeScript-121212?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-121212?style=flat-square&logo=astro&logoColor=BC52EE)
+![Python](https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-121212?style=flat-square&logo=rust&logoColor=white)
 
 #### FRONTEND & STYLING
 ![HTML5](https://img.shields.io/badge/HTML5-121212?style=flat-square&logo=html5&logoColor=E34F26)
+![React](https://img.shields.io/badge/React-121212?style=flat-square&logo=react&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-121212?style=flat-square&logo=css3&logoColor=1572B6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-121212?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 

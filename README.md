@@ -27,7 +27,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Astro](https://img.shields.io/badge/Astro-121212?style=flat-square&logo=astro&logoColor=BC52EE)
 ![Python](https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-121212?style=flat-square&logo=rust&logoColor=white)
 
 #### FRONTEND & STYLING
 ![HTML5](https://img.shields.io/badge/HTML5-121212?style=flat-square&logo=html5&logoColor=E34F26)

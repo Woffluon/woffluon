@@ -1,9 +1,9 @@
 <div align="center">
 
 # EFE ARABACI
-### FULL STACK DEVELOPER & MACHINE LEARNING
+### FULL STACK DEVELOPER
 
-`TURKEY` • `WEB DEVELOPMENT` • `MACHINE LEARNING`
+`TURKEY` • `WEB DEVELOPMENT` • `OPEN SOURCE`
 
 ---
 
@@ -11,11 +11,11 @@
 
 ### 01 / BIOGRAPHY
 
-> High school developer focused on building scalable web systems and modern machine learning applications. Driven by minimal design, robust code, and continuous learning.
+> High school developer focused on building scalable, performant, and modern web applications. Driven by minimal design, robust code, and continuous learning.
 
-- **Role** &nbsp;&mdash;&nbsp; Full Stack Web Developer & ML
-- **Stack** &nbsp;&mdash;&nbsp; TypeScript • Python • Astro • Tailwind CSS
-- **Interests** &nbsp;&mdash;&nbsp; Neural Networks, Web Architecture, Open Source
+- **Role** &nbsp;&mdash;&nbsp; Full Stack Web Developer
+- **Stack** &nbsp;&mdash;&nbsp; TypeScript • Next.js • React • Astro • Tailwind CSS
+- **Interests** &nbsp;&mdash;&nbsp; Web Architecture, Developer Tools, Open Source
 - **Status** &nbsp;&mdash;&nbsp; Available for collaborative builds
 
 ---
@@ -25,12 +25,13 @@
 #### CORE LANGUAGES & FRAMEWORKS
 ![TypeScript](https://img.shields.io/badge/TypeScript-121212?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Next.js](https://img.shields.io/badge/Next.js-121212?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-121212?style=flat-square&logo=react&logoColor=61DAFB)
 ![Astro](https://img.shields.io/badge/Astro-121212?style=flat-square&logo=astro&logoColor=BC52EE)
 ![Python](https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=white)
 
 #### FRONTEND & STYLING
 ![HTML5](https://img.shields.io/badge/HTML5-121212?style=flat-square&logo=html5&logoColor=E34F26)
-![React](https://img.shields.io/badge/React-121212?style=flat-square&logo=react&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-121212?style=flat-square&logo=css3&logoColor=1572B6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-121212?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
